@@ -2,7 +2,7 @@
   QTL mapper || vQTL mapper || QTL-QTL interactions || vQTL-vQTL interactions
 				
 				Mapping vQTL(& QTL)
-	To map vQTL(& QTL) you need to have the following files in the folder “Map_QTL”:
+	To map vQTL(& QTL) you need to have the following files in the folder “Map_QTL” (or "vqtl-interactions"):
 		a.	getphenogeno.R
 		b.	mapping.R
 		c.	getpeaks.R
