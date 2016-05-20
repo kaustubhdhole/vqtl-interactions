@@ -4,11 +4,11 @@ import numpy as np
 import time
 import sys
 
-###############################################
-#             vQTL - vQTL Mapping             #
-###############################################
-# Kaustubh Dhole || kaustubhdhole@hotmail.com #
-###############################################
+#######################################################
+#             vQTL - vQTL Mapping             	      #
+#######################################################
+# Kaustubh Dhole || BITS Pilani, Goa || TIFR, Mumbai  #
+#######################################################
 
 fo = open('phenogeno.csv', 'r')
 data = [[word.split(',') for word in line.split()][0] for line in fo]
